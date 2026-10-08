@@ -135,51 +135,6 @@ items:
   descendants_targets: []
   path: "/pages/mapas"
   file: content/fr/pages/mapas/_index.html
-- title: Cancionero carbonero
-  slug: cancionero-carbonero
-  target: "/cancionero-carbonero/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/cancionero-carbonero"
-  file: content/fr/pages/cancionero-carbonero/_index.html
-- title: Memorias en territorio
-  slug: memorias-en-territorio
-  target: "/memorias-en-territorio/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/memorias-en-territorio"
-  file: content/fr/pages/memorias-en-territorio/_index.html
-- title: Contribuí al proyecto
-  slug: contribui-al-proyecto
-  target: "/contribui-al-proyecto/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/contribui-al-proyecto"
-  file: content/fr/pages/contribui-al-proyecto/_index.html
-- title: Bitácora de investigación
-  slug: bitacora-de-investigacion
-  target: "/bitacora-de-investigacion/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/bitacora-de-investigacion"
-  file: content/fr/pages/bitacora-de-investigacion/_index.html
-- title: Instituciones asociadas
-  slug: instituciones-asociadas
-  target: "/organisations/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 - title: Contactos
   slug: contactos
   target: "/contactos/"
@@ -189,4 +144,61 @@ items:
   descendants_targets: []
   path: "/pages/contactos"
   file: content/fr/pages/contactos/_index.html
+- title: Sous menus temporaires
+  slug: sous-menus-temporaires
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Cancionero carbonero
+    slug: cancionero-carbonero
+    target: "/cancionero-carbonero/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/cancionero-carbonero"
+    file: content/fr/pages/cancionero-carbonero/_index.html
+  - title: Memorias en territorio
+    slug: memorias-en-territorio
+    target: "/memorias-en-territorio/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/memorias-en-territorio"
+    file: content/fr/pages/memorias-en-territorio/_index.html
+  - title: Contribuí al proyecto
+    slug: contribui-al-proyecto
+    target: "/contribui-al-proyecto/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/contribui-al-proyecto"
+    file: content/fr/pages/contribui-al-proyecto/_index.html
+  - title: Bitácora de investigación
+    slug: bitacora-de-investigacion
+    target: "/bitacora-de-investigacion/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/bitacora-de-investigacion"
+    file: content/fr/pages/bitacora-de-investigacion/_index.html
+  - title: Instituciones asociadas
+    slug: instituciones-asociadas
+    target: "/organisations/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/organizations"
+    file: content/fr/organizations/_index.html
+  descendants_targets:
+  - "/bitacora-de-investigacion/"
+  - "/cancionero-carbonero/"
+  - "/contribui-al-proyecto/"
+  - "/memorias-en-territorio/"
+  - "/organisations/"
 
