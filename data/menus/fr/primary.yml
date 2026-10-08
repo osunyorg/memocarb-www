@@ -126,24 +126,6 @@ items:
   - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
   path: "/pages/arqueologia-de-las-carboneras"
   file: content/fr/pages/arqueologia-de-las-carboneras/_index.html
-- title: Mapas
-  slug: mapas
-  target: "/mapas/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/mapas"
-  file: content/fr/pages/mapas/_index.html
-- title: Contactos
-  slug: contactos
-  target: "/contactos/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/contactos"
-  file: content/fr/pages/contactos/_index.html
 - title: Sous menus temporaires
   slug: sous-menus-temporaires
   target: ''
@@ -195,10 +177,30 @@ items:
     descendants_targets: []
     path: "/organizations"
     file: content/fr/organizations/_index.html
+  - title: Mapas
+    slug: mapas
+    target: "/mapas/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/mapas"
+    file: content/fr/pages/mapas/_index.html
+  - title: Contactos
+    slug: contactos
+    target: "/contactos/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/contactos"
+    file: content/fr/pages/contactos/_index.html
   descendants_targets:
   - "/bitacora-de-investigacion/"
   - "/cancionero-carbonero/"
+  - "/contactos/"
   - "/contribui-al-proyecto/"
+  - "/mapas/"
   - "/memorias-en-territorio/"
   - "/organisations/"
 
