@@ -6,8 +6,8 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo-memocarb.jpg'
+    footer: '/assets/images/logo-memocarb.jpg'
   home:
     head:
       title: site
