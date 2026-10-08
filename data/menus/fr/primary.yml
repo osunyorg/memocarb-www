@@ -88,50 +88,50 @@ items:
   - "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
   path: "/pages/fotos-y-peliculas"
   file: content/fr/pages/fotos-y-peliculas/_index.html
-- title: Paisajes escondidos
-  slug: paisajes-escondidos
-  target: "/paisajes-escondidos/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/paisajes-escondidos"
-  file: content/fr/pages/paisajes-escondidos/_index.html
-- title: Arqueología de las carboneras
-  slug: arqueologia-de-las-carboneras
-  target: "/arqueologia-de-las-carboneras/"
-  kind: page
-  new_tab: false
-  children:
-  - title: El sitio BS3
-    slug: el-sitio-bs3
-    target: "/arqueologia-de-las-carboneras/el-sitio-bs3/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/arqueologia-de-las-carboneras/el-sitio-bs3"
-    file: content/fr/pages/arqueologia-de-las-carboneras/el-sitio-bs3/_index.html
-  - title: Hablan los carbones
-    slug: hablan-los-carbones
-    target: "/arqueologia-de-las-carboneras/hablan-los-carbones/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/arqueologia-de-las-carboneras/hablan-los-carbones"
-    file: content/fr/pages/arqueologia-de-las-carboneras/hablan-los-carbones/_index.html
-  descendants_targets:
-  - "/arqueologia-de-las-carboneras/el-sitio-bs3/"
-  - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
-  path: "/pages/arqueologia-de-las-carboneras"
-  file: content/fr/pages/arqueologia-de-las-carboneras/_index.html
 - title: Sous menus temporaires
   slug: sous-menus-temporaires
   target: ''
   kind: blank
   new_tab: false
   children:
+  - title: Paisajes escondidos
+    slug: paisajes-escondidos
+    target: "/paisajes-escondidos/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/paisajes-escondidos"
+    file: content/fr/pages/paisajes-escondidos/_index.html
+  - title: Arqueología de las carboneras
+    slug: arqueologia-de-las-carboneras
+    target: "/arqueologia-de-las-carboneras/"
+    kind: page
+    new_tab: false
+    children:
+    - title: El sitio BS3
+      slug: el-sitio-bs3
+      target: "/arqueologia-de-las-carboneras/el-sitio-bs3/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/arqueologia-de-las-carboneras/el-sitio-bs3"
+      file: content/fr/pages/arqueologia-de-las-carboneras/el-sitio-bs3/_index.html
+    - title: Hablan los carbones
+      slug: hablan-los-carbones
+      target: "/arqueologia-de-las-carboneras/hablan-los-carbones/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/arqueologia-de-las-carboneras/hablan-los-carbones"
+      file: content/fr/pages/arqueologia-de-las-carboneras/hablan-los-carbones/_index.html
+    descendants_targets:
+    - "/arqueologia-de-las-carboneras/el-sitio-bs3/"
+    - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
+    path: "/pages/arqueologia-de-las-carboneras"
+    file: content/fr/pages/arqueologia-de-las-carboneras/_index.html
   - title: Cancionero carbonero
     slug: cancionero-carbonero
     target: "/cancionero-carbonero/"
@@ -196,6 +196,9 @@ items:
     path: "/pages/contactos"
     file: content/fr/pages/contactos/_index.html
   descendants_targets:
+  - "/arqueologia-de-las-carboneras/"
+  - "/arqueologia-de-las-carboneras/el-sitio-bs3/"
+  - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
   - "/bitacora-de-investigacion/"
   - "/cancionero-carbonero/"
   - "/contactos/"
@@ -203,4 +206,5 @@ items:
   - "/mapas/"
   - "/memorias-en-territorio/"
   - "/organisations/"
+  - "/paisajes-escondidos/"
 
