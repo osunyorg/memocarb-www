@@ -49,51 +49,51 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Fotos y películas
-  slug: fotos-y-peliculas
-  target: "/fotos-y-peliculas/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Acervos familiares
-    slug: acervos-familiares
-    target: "/fotos-y-peliculas/acervos-familiares/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/fotos-y-peliculas/acervos-familiares"
-    file: content/fr/pages/fotos-y-peliculas/acervos-familiares/_index.html
-  - title: Documentales
-    slug: documentales
-    target: "/fotos-y-peliculas/documentales/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/fotos-y-peliculas/documentales"
-    file: content/fr/pages/fotos-y-peliculas/documentales/_index.html
-  - title: Las carboneras en la prensa
-    slug: las-carboneras-en-la-prensa
-    target: "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/fotos-y-peliculas/las-carboneras-en-la-prensa"
-    file: content/fr/pages/fotos-y-peliculas/las-carboneras-en-la-prensa/_index.html
-  descendants_targets:
-  - "/fotos-y-peliculas/acervos-familiares/"
-  - "/fotos-y-peliculas/documentales/"
-  - "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
-  path: "/pages/fotos-y-peliculas"
-  file: content/fr/pages/fotos-y-peliculas/_index.html
 - title: Sous menus temporaires
   slug: sous-menus-temporaires
   target: ''
   kind: blank
   new_tab: false
   children:
+  - title: Fotos y películas
+    slug: fotos-y-peliculas
+    target: "/fotos-y-peliculas/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Acervos familiares
+      slug: acervos-familiares
+      target: "/fotos-y-peliculas/acervos-familiares/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/fotos-y-peliculas/acervos-familiares"
+      file: content/fr/pages/fotos-y-peliculas/acervos-familiares/_index.html
+    - title: Documentales
+      slug: documentales
+      target: "/fotos-y-peliculas/documentales/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/fotos-y-peliculas/documentales"
+      file: content/fr/pages/fotos-y-peliculas/documentales/_index.html
+    - title: Las carboneras en la prensa
+      slug: las-carboneras-en-la-prensa
+      target: "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/fotos-y-peliculas/las-carboneras-en-la-prensa"
+      file: content/fr/pages/fotos-y-peliculas/las-carboneras-en-la-prensa/_index.html
+    descendants_targets:
+    - "/fotos-y-peliculas/acervos-familiares/"
+    - "/fotos-y-peliculas/documentales/"
+    - "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
+    path: "/pages/fotos-y-peliculas"
+    file: content/fr/pages/fotos-y-peliculas/_index.html
   - title: Paisajes escondidos
     slug: paisajes-escondidos
     target: "/paisajes-escondidos/"
@@ -203,6 +203,10 @@ items:
   - "/cancionero-carbonero/"
   - "/contactos/"
   - "/contribui-al-proyecto/"
+  - "/fotos-y-peliculas/"
+  - "/fotos-y-peliculas/acervos-familiares/"
+  - "/fotos-y-peliculas/documentales/"
+  - "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
   - "/mapas/"
   - "/memorias-en-territorio/"
   - "/organisations/"
