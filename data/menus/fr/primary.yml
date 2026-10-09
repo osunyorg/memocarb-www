@@ -158,8 +158,48 @@ items:
     target: "/paisajes-escondidos/"
     kind: page
     new_tab: false
-    children: []
-    descendants_targets: []
+    children:
+    - title: Hornos
+      slug: hornos
+      target: "/paisajes-escondidos/hornos/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/paisajes-escondidos/hornos"
+      file: content/fr/pages/paisajes-escondidos/hornos/_index.html
+    - title: La memoria del monte
+      slug: la-memoria-del-monte
+      target: "/paisajes-escondidos/la-memoria-del-monte/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/paisajes-escondidos/la-memoria-del-monte"
+      file: content/fr/pages/paisajes-escondidos/la-memoria-del-monte/_index.html
+    - title: Infraestructuras carboneras
+      slug: infraestructuras-carboneras
+      target: "/paisajes-escondidos/infraestructuras-carboneras/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/paisajes-escondidos/infraestructuras-carboneras"
+      file: content/fr/pages/paisajes-escondidos/infraestructuras-carboneras/_index.html
+    - title: Deforestaciones olvidadas
+      slug: deforestaciones-olvidadas
+      target: "/paisajes-escondidos/deforestaciones-olvidadas/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/paisajes-escondidos/deforestaciones-olvidadas"
+      file: content/fr/pages/paisajes-escondidos/deforestaciones-olvidadas/_index.html
+    descendants_targets:
+    - "/paisajes-escondidos/deforestaciones-olvidadas/"
+    - "/paisajes-escondidos/hornos/"
+    - "/paisajes-escondidos/infraestructuras-carboneras/"
+    - "/paisajes-escondidos/la-memoria-del-monte/"
     path: "/pages/paisajes-escondidos"
     file: content/fr/pages/paisajes-escondidos/_index.html
   - title: Arqueología de las carboneras
@@ -207,4 +247,8 @@ items:
   - "/bitacora-de-investigacion/"
   - "/mapas/"
   - "/paisajes-escondidos/"
+  - "/paisajes-escondidos/deforestaciones-olvidadas/"
+  - "/paisajes-escondidos/hornos/"
+  - "/paisajes-escondidos/infraestructuras-carboneras/"
+  - "/paisajes-escondidos/la-memoria-del-monte/"
 
