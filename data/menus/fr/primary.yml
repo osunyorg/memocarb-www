@@ -72,8 +72,8 @@ items:
   file: content/fr/pages/el-proyecto-1/_index.html
 - title: Testimonios
   slug: testimonios
-  target: "/entrevistas-1/"
-  kind: page
+  target: ''
+  kind: blank
   new_tab: false
   children:
   - title: Cancionero carbonero
@@ -85,8 +85,18 @@ items:
     descendants_targets: []
     path: "/pages/cancionero-carbonero"
     file: content/fr/pages/cancionero-carbonero/_index.html
+  - title: Entrevistas
+    slug: entrevistas
+    target: "/entrevistas-1/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/projects"
+    file: content/fr/projects/_index.html
   descendants_targets:
   - "/cancionero-carbonero/"
+  - "/entrevistas-1/"
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Fotos y películas
