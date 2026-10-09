@@ -181,15 +181,6 @@ items:
     - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
     path: "/pages/arqueologia-de-las-carboneras"
     file: content/fr/pages/arqueologia-de-las-carboneras/_index.html
-  - title: Memorias en territorio
-    slug: memorias-en-territorio
-    target: "/memorias-en-territorio/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/memorias-en-territorio"
-    file: content/fr/pages/memorias-en-territorio/_index.html
   - title: Bitácora de investigación
     slug: bitacora-de-investigacion
     target: "/bitacora-de-investigacion/"
@@ -205,6 +196,5 @@ items:
   - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
   - "/bitacora-de-investigacion/"
   - "/mapas/"
-  - "/memorias-en-territorio/"
   - "/paisajes-escondidos/"
 
