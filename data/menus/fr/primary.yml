@@ -72,7 +72,7 @@ items:
   file: content/fr/pages/el-proyecto-1/_index.html
 - title: Testimonios
   slug: testimonios
-  target: "/testimonios/"
+  target: "/entrevistas-1/"
   kind: page
   new_tab: false
   children:

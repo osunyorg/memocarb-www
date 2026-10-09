@@ -15,10 +15,6 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/projets/index.html"
-to = "/testimonios/"
-
-[[redirects]]
-from = "/testimonios/entrevistas/index.html"
-to = "/entrevistas/"
+from = "/testimonios/index.html"
+to = "/entrevistas-1/"
 
