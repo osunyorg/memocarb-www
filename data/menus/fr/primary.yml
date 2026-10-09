@@ -70,8 +70,8 @@ items:
   - "/organisations/"
   path: "/pages/el-proyecto-1"
   file: content/fr/pages/el-proyecto-1/_index.html
-- title: Testimonios contados
-  slug: testimonios-contados
+- title: Testimonios
+  slug: testimonios
   target: "/testimonios/"
   kind: page
   new_tab: false
