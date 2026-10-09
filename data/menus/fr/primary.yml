@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: El proyeto
-  slug: el-proyeto
+- title: El proyecto
+  slug: el-proyecto
   target: "/el-proyecto-1/"
   kind: page
   new_tab: false
