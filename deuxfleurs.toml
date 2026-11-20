@@ -15,6 +15,178 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/arqueologia-de-las-carboneras/el-sitio-bs3/index.html"
+to = "/fr/arqueologia-de-las-carboneras/el-sitio-bs3/"
+
+[[redirects]]
+from = "/fichiers/index.html"
+to = "/fr/fichiers/"
+
+[[redirects]]
+from = "/entrevistas-1/2026-jose-pita-casella/index.html"
+to = "/fr/entrevistas-1/2026-jose-pita-casella/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/paisajes-escondidos/index.html"
+to = "/fr/paisajes-escondidos/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/fr/agenda/"
+
+[[redirects]]
+from = "/entrevistas-1/index.html"
+to = "/fr/entrevistas-1/"
+
+[[redirects]]
+from = "/entrevistas-1/2024-jose-fagundez/index.html"
+to = "/fr/entrevistas-1/2024-jose-fagundez/"
+
+[[redirects]]
+from = "/contactos/index.html"
+to = "/fr/contactos/"
+
+[[redirects]]
+from = "/personnes/index.html"
+to = "/fr/personnes/"
+
+[[redirects]]
+from = "/testimonios-contados/index.html"
+to = "/fr/testimonios-contados/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/paisajes-escondidos/la-memoria-del-monte/index.html"
+to = "/fr/paisajes-escondidos/la-memoria-del-monte/"
+
+[[redirects]]
+from = "/paisajes-escondidos/deforestaciones-olvidadas/index.html"
+to = "/fr/paisajes-escondidos/deforestaciones-olvidadas/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/memorias-en-territorio/index.html"
+to = "/fr/memorias-en-territorio/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/fichiers/2026/a-memocarb-josefagundez1-2024-06-28/index.html"
+to = "/fr/fichiers/2026/a-memocarb-josefagundez1-2024-06-28/"
+
+[[redirects]]
+from = "/el-proyecto-1/memoria-popular-del-carbon/index.html"
+to = "/fr/el-proyecto-1/memoria-popular-del-carbon/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/arqueologia-de-las-carboneras/hablan-los-carbones/index.html"
+to = "/fr/arqueologia-de-las-carboneras/hablan-los-carbones/"
+
+[[redirects]]
+from = "/fotos-y-peliculas/documentales/index.html"
+to = "/fr/fotos-y-peliculas/documentales/"
+
+[[redirects]]
+from = "/contribui-al-proyecto/index.html"
+to = "/fr/contribui-al-proyecto/"
+
+[[redirects]]
+from = "/bitacora-de-investigacion/index.html"
+to = "/fr/bitacora-de-investigacion/"
+
+[[redirects]]
+from = "/expositions/archives-expositions/index.html"
+to = "/fr/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/paisajes-escondidos/infraestructuras-carboneras/index.html"
+to = "/fr/paisajes-escondidos/infraestructuras-carboneras/"
+
+[[redirects]]
+from = "/arqueologia-de-las-carboneras/index.html"
+to = "/fr/arqueologia-de-las-carboneras/"
+
+[[redirects]]
+from = "/paisajes-escondidos/hornos/index.html"
+to = "/fr/paisajes-escondidos/hornos/"
+
+[[redirects]]
+from = "/fotos-y-peliculas/index.html"
+to = "/fr/fotos-y-peliculas/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/personnes/pierre-gautreau/index.html"
+to = "/fr/personnes/pierre-gautreau/"
+
+[[redirects]]
+from = "/personnes/categories/equipo/index.html"
+to = "/fr/personnes/categories/equipo/"
+
+[[redirects]]
 from = "/testimonios/2024-jose-fagundez/index.html"
-to = "/entrevistas-1/2024-jose-fagundez/"
+to = "/fr/entrevistas-1/2024-jose-fagundez/"
+
+[[redirects]]
+from = "/fichiers/2026/b-memocarb-josefagundez2-2024-06-28/index.html"
+to = "/fr/fichiers/2026/b-memocarb-josefagundez2-2024-06-28/"
+
+[[redirects]]
+from = "/fotos-y-peliculas/las-carboneras-en-la-prensa/index.html"
+to = "/fr/fotos-y-peliculas/las-carboneras-en-la-prensa/"
+
+[[redirects]]
+from = "/mapas/index.html"
+to = "/fr/mapas/"
+
+[[redirects]]
+from = "/cancionero-carbonero/index.html"
+to = "/fr/cancionero-carbonero/"
+
+[[redirects]]
+from = "/expositions/index.html"
+to = "/fr/expositions/"
+
+[[redirects]]
+from = "/entrevistas-1/2026-quico-fagundez/index.html"
+to = "/fr/entrevistas-1/2026-quico-fagundez/"
+
+[[redirects]]
+from = "/fotos-y-peliculas/acervos-familiares/index.html"
+to = "/fr/fotos-y-peliculas/acervos-familiares/"
+
+[[redirects]]
+from = "/el-proyecto-1/ciencia-abierta/index.html"
+to = "/fr/el-proyecto-1/ciencia-abierta/"
+
+[[redirects]]
+from = "/el-proyecto-1/index.html"
+to = "/fr/el-proyecto-1/"
+
+[[redirects]]
+from = "/entrevistas-1/2026-luis-pesenti/index.html"
+to = "/fr/entrevistas-1/2026-luis-pesenti/"
 

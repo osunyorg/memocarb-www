@@ -3,13 +3,13 @@ title: Menu principal
 items:
 - title: El proyecto
   slug: el-proyecto
-  target: "/el-proyecto-1/"
+  target: "/fr/el-proyecto-1/"
   kind: page
   new_tab: false
   children:
   - title: Memoria popular del carbón
     slug: memoria-popular-del-carbon
-    target: "/el-proyecto-1/memoria-popular-del-carbon/"
+    target: "/fr/el-proyecto-1/memoria-popular-del-carbon/"
     kind: page
     new_tab: false
     children: []
@@ -18,7 +18,7 @@ items:
     file: content/fr/pages/el-proyecto-1/memoria-popular-del-carbon/_index.html
   - title: Ciencia abierta
     slug: ciencia-abierta
-    target: "/el-proyecto-1/ciencia-abierta/"
+    target: "/fr/el-proyecto-1/ciencia-abierta/"
     kind: page
     new_tab: false
     children: []
@@ -27,7 +27,7 @@ items:
     file: content/fr/pages/el-proyecto-1/ciencia-abierta/_index.html
   - title: Contribuí al proyecto
     slug: contribui-al-proyecto
-    target: "/contribui-al-proyecto/"
+    target: "/fr/contribui-al-proyecto/"
     kind: page
     new_tab: false
     children: []
@@ -36,7 +36,7 @@ items:
     file: content/fr/pages/contribui-al-proyecto/_index.html
   - title: Contactos
     slug: contactos
-    target: "/contactos/"
+    target: "/fr/contactos/"
     kind: page
     new_tab: false
     children: []
@@ -45,7 +45,7 @@ items:
     file: content/fr/pages/contactos/_index.html
   - title: Instituciones asociadas
     slug: instituciones-asociadas
-    target: "/organisations/"
+    target: "/fr/organisations/"
     kind: page
     new_tab: false
     children: []
@@ -53,11 +53,11 @@ items:
     path: "/organizations"
     file: content/fr/organizations/_index.html
   descendants_targets:
-  - "/contactos/"
-  - "/contribui-al-proyecto/"
-  - "/el-proyecto-1/ciencia-abierta/"
-  - "/el-proyecto-1/memoria-popular-del-carbon/"
-  - "/organisations/"
+  - "/fr/contactos/"
+  - "/fr/contribui-al-proyecto/"
+  - "/fr/el-proyecto-1/ciencia-abierta/"
+  - "/fr/el-proyecto-1/memoria-popular-del-carbon/"
+  - "/fr/organisations/"
   path: "/pages/el-proyecto-1"
   file: content/fr/pages/el-proyecto-1/_index.html
 - title: Testimonios
@@ -68,7 +68,7 @@ items:
   children:
   - title: Cancionero carbonero
     slug: cancionero-carbonero
-    target: "/cancionero-carbonero/"
+    target: "/fr/cancionero-carbonero/"
     kind: page
     new_tab: false
     children: []
@@ -77,7 +77,7 @@ items:
     file: content/fr/pages/cancionero-carbonero/_index.html
   - title: Entrevistas
     slug: entrevistas
-    target: "/entrevistas-1/"
+    target: "/fr/entrevistas-1/"
     kind: page
     new_tab: false
     children: []
@@ -85,19 +85,19 @@ items:
     path: "/projects"
     file: content/fr/projects/_index.html
   descendants_targets:
-  - "/cancionero-carbonero/"
-  - "/entrevistas-1/"
+  - "/fr/cancionero-carbonero/"
+  - "/fr/entrevistas-1/"
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Fotos y películas
   slug: fotos-y-peliculas
-  target: "/fotos-y-peliculas/"
+  target: "/fr/fotos-y-peliculas/"
   kind: page
   new_tab: false
   children:
   - title: Acervos familiares
     slug: acervos-familiares
-    target: "/fotos-y-peliculas/acervos-familiares/"
+    target: "/fr/fotos-y-peliculas/acervos-familiares/"
     kind: page
     new_tab: false
     children: []
@@ -106,7 +106,7 @@ items:
     file: content/fr/pages/fotos-y-peliculas/acervos-familiares/_index.html
   - title: Documentales
     slug: documentales
-    target: "/fotos-y-peliculas/documentales/"
+    target: "/fr/fotos-y-peliculas/documentales/"
     kind: page
     new_tab: false
     children: []
@@ -115,7 +115,7 @@ items:
     file: content/fr/pages/fotos-y-peliculas/documentales/_index.html
   - title: Las carboneras en la prensa
     slug: las-carboneras-en-la-prensa
-    target: "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
+    target: "/fr/fotos-y-peliculas/las-carboneras-en-la-prensa/"
     kind: page
     new_tab: false
     children: []
@@ -123,9 +123,9 @@ items:
     path: "/pages/fotos-y-peliculas/las-carboneras-en-la-prensa"
     file: content/fr/pages/fotos-y-peliculas/las-carboneras-en-la-prensa/_index.html
   descendants_targets:
-  - "/fotos-y-peliculas/acervos-familiares/"
-  - "/fotos-y-peliculas/documentales/"
-  - "/fotos-y-peliculas/las-carboneras-en-la-prensa/"
+  - "/fr/fotos-y-peliculas/acervos-familiares/"
+  - "/fr/fotos-y-peliculas/documentales/"
+  - "/fr/fotos-y-peliculas/las-carboneras-en-la-prensa/"
   path: "/pages/fotos-y-peliculas"
   file: content/fr/pages/fotos-y-peliculas/_index.html
 - title: Hallazgos y preguntas
@@ -136,7 +136,7 @@ items:
   children:
   - title: Mapas
     slug: mapas
-    target: "/mapas/"
+    target: "/fr/mapas/"
     kind: page
     new_tab: false
     children: []
@@ -145,13 +145,13 @@ items:
     file: content/fr/pages/mapas/_index.html
   - title: Paisajes escondidos
     slug: paisajes-escondidos
-    target: "/paisajes-escondidos/"
+    target: "/fr/paisajes-escondidos/"
     kind: page
     new_tab: false
     children:
     - title: Hornos
       slug: hornos
-      target: "/paisajes-escondidos/hornos/"
+      target: "/fr/paisajes-escondidos/hornos/"
       kind: page
       new_tab: false
       children: []
@@ -160,7 +160,7 @@ items:
       file: content/fr/pages/paisajes-escondidos/hornos/_index.html
     - title: La memoria del monte
       slug: la-memoria-del-monte
-      target: "/paisajes-escondidos/la-memoria-del-monte/"
+      target: "/fr/paisajes-escondidos/la-memoria-del-monte/"
       kind: page
       new_tab: false
       children: []
@@ -169,7 +169,7 @@ items:
       file: content/fr/pages/paisajes-escondidos/la-memoria-del-monte/_index.html
     - title: Infraestructuras carboneras
       slug: infraestructuras-carboneras
-      target: "/paisajes-escondidos/infraestructuras-carboneras/"
+      target: "/fr/paisajes-escondidos/infraestructuras-carboneras/"
       kind: page
       new_tab: false
       children: []
@@ -178,7 +178,7 @@ items:
       file: content/fr/pages/paisajes-escondidos/infraestructuras-carboneras/_index.html
     - title: Deforestaciones olvidadas
       slug: deforestaciones-olvidadas
-      target: "/paisajes-escondidos/deforestaciones-olvidadas/"
+      target: "/fr/paisajes-escondidos/deforestaciones-olvidadas/"
       kind: page
       new_tab: false
       children: []
@@ -186,21 +186,21 @@ items:
       path: "/pages/paisajes-escondidos/deforestaciones-olvidadas"
       file: content/fr/pages/paisajes-escondidos/deforestaciones-olvidadas/_index.html
     descendants_targets:
-    - "/paisajes-escondidos/deforestaciones-olvidadas/"
-    - "/paisajes-escondidos/hornos/"
-    - "/paisajes-escondidos/infraestructuras-carboneras/"
-    - "/paisajes-escondidos/la-memoria-del-monte/"
+    - "/fr/paisajes-escondidos/deforestaciones-olvidadas/"
+    - "/fr/paisajes-escondidos/hornos/"
+    - "/fr/paisajes-escondidos/infraestructuras-carboneras/"
+    - "/fr/paisajes-escondidos/la-memoria-del-monte/"
     path: "/pages/paisajes-escondidos"
     file: content/fr/pages/paisajes-escondidos/_index.html
   - title: Arqueología de las carboneras
     slug: arqueologia-de-las-carboneras
-    target: "/arqueologia-de-las-carboneras/"
+    target: "/fr/arqueologia-de-las-carboneras/"
     kind: page
     new_tab: false
     children:
     - title: El sitio BS3
       slug: el-sitio-bs3
-      target: "/arqueologia-de-las-carboneras/el-sitio-bs3/"
+      target: "/fr/arqueologia-de-las-carboneras/el-sitio-bs3/"
       kind: page
       new_tab: false
       children: []
@@ -209,7 +209,7 @@ items:
       file: content/fr/pages/arqueologia-de-las-carboneras/el-sitio-bs3/_index.html
     - title: Hablan los carbones
       slug: hablan-los-carbones
-      target: "/arqueologia-de-las-carboneras/hablan-los-carbones/"
+      target: "/fr/arqueologia-de-las-carboneras/hablan-los-carbones/"
       kind: page
       new_tab: false
       children: []
@@ -217,13 +217,13 @@ items:
       path: "/pages/arqueologia-de-las-carboneras/hablan-los-carbones"
       file: content/fr/pages/arqueologia-de-las-carboneras/hablan-los-carbones/_index.html
     descendants_targets:
-    - "/arqueologia-de-las-carboneras/el-sitio-bs3/"
-    - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
+    - "/fr/arqueologia-de-las-carboneras/el-sitio-bs3/"
+    - "/fr/arqueologia-de-las-carboneras/hablan-los-carbones/"
     path: "/pages/arqueologia-de-las-carboneras"
     file: content/fr/pages/arqueologia-de-las-carboneras/_index.html
   - title: Bitácora de investigación
     slug: bitacora-de-investigacion
-    target: "/bitacora-de-investigacion/"
+    target: "/fr/bitacora-de-investigacion/"
     kind: page
     new_tab: false
     children: []
@@ -231,14 +231,14 @@ items:
     path: "/pages/bitacora-de-investigacion"
     file: content/fr/pages/bitacora-de-investigacion/_index.html
   descendants_targets:
-  - "/arqueologia-de-las-carboneras/"
-  - "/arqueologia-de-las-carboneras/el-sitio-bs3/"
-  - "/arqueologia-de-las-carboneras/hablan-los-carbones/"
-  - "/bitacora-de-investigacion/"
-  - "/mapas/"
-  - "/paisajes-escondidos/"
-  - "/paisajes-escondidos/deforestaciones-olvidadas/"
-  - "/paisajes-escondidos/hornos/"
-  - "/paisajes-escondidos/infraestructuras-carboneras/"
-  - "/paisajes-escondidos/la-memoria-del-monte/"
+  - "/fr/arqueologia-de-las-carboneras/"
+  - "/fr/arqueologia-de-las-carboneras/el-sitio-bs3/"
+  - "/fr/arqueologia-de-las-carboneras/hablan-los-carbones/"
+  - "/fr/bitacora-de-investigacion/"
+  - "/fr/mapas/"
+  - "/fr/paisajes-escondidos/"
+  - "/fr/paisajes-escondidos/deforestaciones-olvidadas/"
+  - "/fr/paisajes-escondidos/hornos/"
+  - "/fr/paisajes-escondidos/infraestructuras-carboneras/"
+  - "/fr/paisajes-escondidos/la-memoria-del-monte/"
 

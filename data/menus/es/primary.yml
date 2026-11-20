@@ -1,0 +1,23 @@
+---
+title: Menu principal
+items:
+- title: El proyecto
+  slug: el-proyecto
+  target: "/es/el-proyecto/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Quiénes somos
+    slug: quienes-somos
+    target: "/es/quienes-somos-1/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/persons"
+    file: content/es/persons/_index.html
+  descendants_targets:
+  - "/es/quienes-somos-1/"
+  path: "/pages/el-proyecto"
+  file: content/es/pages/el-proyecto/_index.html
+
