@@ -3,8 +3,8 @@ title: Menu principal
 items:
 - title: El proyecto
   slug: el-proyecto
-  target: "/es/el-proyecto/"
-  kind: page
+  target: ''
+  kind: blank
   new_tab: false
   children:
   - title: Quiénes somos
@@ -18,6 +18,4 @@ items:
     file: content/es/persons/_index.html
   descendants_targets:
   - "/es/quienes-somos-1/"
-  path: "/pages/el-proyecto"
-  file: content/es/pages/el-proyecto/_index.html
 
